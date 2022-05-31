@@ -1,6 +1,6 @@
 import os
 import sys
-from traceback import print_tb
+
 def menu():
     print('1-Path directory')
     print('2-Local path')
